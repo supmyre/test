@@ -1,0 +1,2 @@
+<view wx:for="{{arr}}">{{index}}:{{item}}</view>
+<block wx:for="{{['1','22','333']}}">{{index}}={{item}}</block>
